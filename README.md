@@ -18,4 +18,4 @@ Technologies and Frameworks used for this project:
 * PThreads
 
 ## Demonstration
-There is a .pdf in the repository which explains everything about the programs.
+There is a .pdf in the repository and a link to my presentation, which explains everything about the programs.
